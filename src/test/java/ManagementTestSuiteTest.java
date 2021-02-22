@@ -17,7 +17,7 @@ public class ManagementTestSuiteTest {
     public void populateOwner(){
         owners = new ArrayList<Owner>();
         owners.add(new Owner("Carlos", "Claros", Role.QA));
-        owners.add(new Owner("Pamela", "Norris", Role.LEAD));
+        owners.add(new Owner("Pamela", "Cardozo", Role.LEAD));
         owners.add(new Owner("Mario", "Covarrubias", Role.MANAGER));
         owners.add(new Owner("Dani", "Vidal", Role.QA));
         owners.add(new Owner("Pablo", "Ricaldi", Role.LEAD));
