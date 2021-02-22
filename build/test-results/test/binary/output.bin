@@ -1,0 +1,21 @@
+Filter By Owner
+
+Ownersss
+Key : 1value : Ir login
+Key : 2value : Set Usename
+Key : 3value : Set password
+Key : 4value : Go to Dasboard
+Key : 5value : Create Finder
+Key : 6value : Close
+
+Ownersss
+Key : 1value : Search
+Key : 2value : Select item
+Key : 3value : Save
+Key : 4value : Return
+Key : 5value : Close
+Filter By Priority
+Title: TestCase1
+Description: Primero
+Priority: LOW
+Owner: Carlos Claros
